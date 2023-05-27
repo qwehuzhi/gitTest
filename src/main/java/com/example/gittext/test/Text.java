@@ -6,4 +6,5 @@ package com.example.gittext.test;
  */
 public class Text {
     //主线程第一次修改
+    //one 分支第一次修改
 }
